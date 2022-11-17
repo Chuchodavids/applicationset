@@ -4,6 +4,6 @@
   "cluster": {
     "owner": "jesus@hotmail.com",
     "name": "cluster-2",
-    "address": "https://192.168.200.149:57312"
+    "address": "https://192.168.200.149:50211"
   }
 }

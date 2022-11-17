@@ -3,7 +3,7 @@
   "asset_id": "11223344",
   "cluster": {
     "owner": "jesus@hotmail.com",
-    "name": "k1",
+    "name": "cluster-1",
     "address": "https://192.168.200.149:55703"
   }
 }
